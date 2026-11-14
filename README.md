@@ -12,7 +12,7 @@
 
 ### 1. 入れる
 
-1. GitHub の Releases（https://github.com/mouriman2/wingstats-releases/releases/latest）から `WingStats-win-Setup.exe` をダウンロードして開く
+1. GitHub の [Releases の最新の版](https://github.com/mouriman2/wingstats-releases/releases/latest) から `WingStats-win-Setup.exe` をダウンロードして開く
    - 署名していないので「Windows によって PC が保護されました」と出たら、「詳細情報」→「実行」
    - 管理者の権限は要りません。`%LocalAppData%\WingStats` に入り、スタートメニューに「WingStats」ができます
 2. 入れ終わると WingStats が開き、「インストールの仕上げ」が出ます。3 つ選んで「完了」
